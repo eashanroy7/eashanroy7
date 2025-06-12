@@ -4,10 +4,19 @@
 **eashanroy7/eashanroy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
-🌱 A little about me: I'm Eashan Roy, a Software Engineering Masters student at Northeastern University. I bring over **2.5** years of work experience in **Cloud and DevOps** at Infosys, where I specialized in AWS Cloud Services, infrastructure automation using Terraform, Azure DevOps CI/CD pipelines, New Relic for monitoring and alerting, and Python for scripting. I was recognized with the **Rise Award for Engineering Excellence** for spearheading a cost optimization initiative for cloud applications that saved the company 60,000 USD.
+-->🌟 "Turning Cloud Potential into Cloud Reality" 🌟 
 
-🔭 I’m currently working on a Cloud Native Web application leveraging REST APIs with Spring Boot, IaC with Terraform, CI/CD with GitHub Actions, and CloudWatch for Logging/metrics.
+With a strong foundation in Cloud DevOps and backend, I bring a unique blend of skills to architect, build, automate, and optimize cloud-native applications not only in terms of the application code, but also the underlying infrastructure that is needed to host them. My 3+ years of work experience spans AWS, Azure, GCP, Terraform, Python, CI CD, and Kubernetes, where I’ve delivered reliable, scalable, secure, and cost-efficient solutions while ensuring seamless development and deployment processes.
+
+Technical Skills:
+Cloud Platforms: AWS, GCP, Azure
+DevOps Tools: Terraform, Jenkins, GitHub Actions, Azure DevOps, Packer, Docker, Kubernetes
+Programming Languages: Python, Go, Java, SQL, shell scripting
+Database Systems: PostgreSQL, MySQL, Microsoft SQL Server, NoSQL
+Monitoring: New Relic, Prometheus, Grafana, AWS CloudWatch
+Backend Development: Spring Boot, Flask, REST API design and integration
+
+Driven by a quest for continuous learning and impactful collaboration, I am on the lookout to align with organizations poised at the forefront of cloud technology.
 
 📫 How to reach me: eashanroy7@gmail.com
 
