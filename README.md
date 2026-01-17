@@ -1,24 +1,22 @@
-### Hi there, I'm Eashan 👋
+## Hi, I'm Eashan 👋
 
-<!--
-**eashanroy7/eashanroy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineer** focused on **backend, distributed systems and AI/ML infra** — building APIs, distributed services, and infrastructure for AI applications.
 
-Here are some ideas to get you started:
--->🌟 "Turning Cloud Potential into Cloud Reality" 🌟 
+### What I’m best at
+- **Backend & distributed systems:** API design, data modeling, concurrency, reliability, performance, high-scale
+- **Platform/infra:** CI/CD, cloud deployments, Kubernetes, observability, authn/authz
+- **ML systems (engineering-first):** production pipelines, job orchestration, optimizations, audit/logging
 
-With a strong foundation in Cloud DevOps and backend, I bring a unique blend of skills to architect, build, automate, and optimize cloud-native applications not only in terms of the application code, but also the underlying infrastructure that is needed to host them. My 3+ years of work experience spans AWS, Azure, GCP, Terraform, Python, CI CD, and Kubernetes, where I’ve delivered reliable, scalable, secure, and cost-efficient solutions while ensuring seamless development and deployment processes.
+### Highlights (recent work)
+- Designed and developed a flagship API platform for automating computer vision model training for Plainsight Technologies https://plainsight.ai/
+- Led the development of an open-source framework for building modular computer vision pipelines for edge inference https://github.com/PlainsightAI/openfilter
 
-Technical Skills:
-Cloud Platforms: AWS, GCP, Azure
-DevOps Tools: Terraform, Jenkins, GitHub Actions, Azure DevOps, Packer, Docker, Kubernetes
-Programming Languages: Python, Go, Java, SQL, shell scripting
-Database Systems: PostgreSQL, MySQL, Microsoft SQL Server, NoSQL
-Monitoring: New Relic, Prometheus, Grafana, AWS CloudWatch
-Backend Development: Spring Boot, Flask, REST API design and integration
+### Highlights (academic)
+- Inducted into Society of Distinction as one of the top 100 graduate students at Northeastern University for exceptional leadership and academic impact (selected from 20,000+ students across 13 global campuses) https://news.northeastern.edu/2025/04/15/laurel-scroll-induction-ceremony-2025/
 
-Driven by a quest for continuous learning and impactful collaboration, I am on the lookout to align with organizations poised at the forefront of cloud technology.
+### Roles I’m targeting
+- **SWE-1 / SWE-2** - **Backend**, **MLOps**, **Platform/Infrastructure**, **Developer Productivity**
 
-📫 How to reach me: eashanroy7@gmail.com
-
-😄 Connect with me: https://www.linkedin.com/in/eashan-roy/
-
+### Reach me
+- Email: **eashanroy7@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/eashan-roy/**
