@@ -5,7 +5,7 @@ I’m a **Software Engineer** focused on **backend**, **distributed systems** an
 ### What I’m best at
 - **Backend & distributed systems:** API design, data modeling, concurrency, reliability, performance, high-scale
 - **Platform/infra:** CI/CD, cloud deployments, Kubernetes, observability, authn/authz
-- **ML systems:** production pipelines, job orchestration, edge optimizations, audit/logging
+- **ML systems:** production pipelines, training job orchestration, edge optimizations, audit/logging
 
 ### Highlights (recent work)
 - Designed and developed a flagship API platform for automating computer vision model training at Plainsight Technologies https://plainsight.ai/
