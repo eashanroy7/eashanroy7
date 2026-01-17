@@ -1,14 +1,14 @@
 ## Hi, I'm Eashan 👋
 
-I’m a **Software Engineer** focused on **backend**, **distributed systems** and **AI/ML infra** — building APIs, distributed services, and infrastructure for AI applications.
+I’m a **Software Engineer** focused on **backend**, **distributed systems** and **AI/ML infra** - building and optimizing APIs, distributed services, and infrastructure for AI applications.
 
 ### What I’m best at
 - **Backend & distributed systems:** API design, data modeling, concurrency, reliability, performance, high-scale
 - **Platform/infra:** CI/CD, cloud deployments, Kubernetes, observability, authn/authz
-- **ML systems (engineering-first):** production pipelines, job orchestration, optimizations, audit/logging
+- **ML systems:** production pipelines, job orchestration, edge optimizations, audit/logging
 
 ### Highlights (recent work)
-- Designed and developed a flagship API platform for automating computer vision model training for Plainsight Technologies https://plainsight.ai/
+- Designed and developed a flagship API platform for automating computer vision model training at Plainsight Technologies https://plainsight.ai/
 - Led the development of an open-source framework for building modular computer vision pipelines for edge inference https://github.com/PlainsightAI/openfilter
 
 ### Highlights (academic)
