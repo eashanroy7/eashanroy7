@@ -1,6 +1,6 @@
 ## Hi, I'm Eashan 👋
 
-I’m a **Software Engineer** focused on **backend, distributed systems and AI/ML infra** — building APIs, distributed services, and infrastructure for AI applications.
+I’m a **Software Engineer** focused on **backend**, **distributed systems** and **AI/ML infra** — building APIs, distributed services, and infrastructure for AI applications.
 
 ### What I’m best at
 - **Backend & distributed systems:** API design, data modeling, concurrency, reliability, performance, high-scale
