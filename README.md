@@ -10,7 +10,7 @@ I’m a **Software Engineer** focused on **backend**, **distributed systems** an
 ### Highlights (recent work)
 - Designed and developed a flagship API platform for automating computer vision model training at Plainsight Technologies https://plainsight.ai/
 - Developed an open-source frame deduplication component that uses motion analysis, perceptual hash and SSIM to skip redundant GPU inference at the edge https://github.com/PlainsightAI/filter-frame-dedup
-- Led the development of an open-source framework for building modular computer vision pipelines for edge inference https://github.com/PlainsightAI/openfilter
+- Led the development of 'OpenFilter', an open-source framework for building modular computer vision pipelines for edge inference https://github.com/PlainsightAI/openfilter
 
 ### Highlights (academic)
 - Inducted into Society of Distinction as one of the top 100 graduate students at Northeastern University for exceptional leadership and academic impact (selected from 20,000+ students across 13 global campuses) https://news.northeastern.edu/2025/04/15/laurel-scroll-induction-ceremony-2025/
