@@ -9,6 +9,7 @@ I’m a **Software Engineer** focused on **backend**, **distributed systems** an
 
 ### Highlights (recent work)
 - Designed and developed a flagship API platform for automating computer vision model training at Plainsight Technologies https://plainsight.ai/
+- Developed an open-source frame deduplication component that uses motion analysis, perceptual hash and SSIM to skip redundant GPU inference at the edge https://github.com/PlainsightAI/filter-frame-dedup
 - Led the development of an open-source framework for building modular computer vision pipelines for edge inference https://github.com/PlainsightAI/openfilter
 
 ### Highlights (academic)
